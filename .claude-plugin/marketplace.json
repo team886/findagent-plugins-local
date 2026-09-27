@@ -1,0 +1,6 @@
+{
+  "name": "findagent-local",
+  "description": "Reviewed FindAgent plugins that run on your own computer.",
+  "owner": { "name": "FindAgent" },
+  "plugins": []
+}
