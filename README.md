@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://findagent.cloud">findagent.cloud</a> ·
   <a href="https://findagent.cloud/security">Security</a> ·
-  <a href="https://github.com/team886/findagent-plugins">Main marketplace</a>
+  <a href="https://github.com/FindAgent/plugins">Main marketplace</a>
 </p>
 
 ---
@@ -26,13 +26,13 @@ against it — changes are overwritten on the next sync.
 
 | Client | Command |
 |---|---|
-| Claude Code | `/plugin marketplace add team886/findagent-plugins-local` |
-| GitHub Copilot CLI | `copilot plugin marketplace add team886/findagent-plugins-local` |
-| VS Code | add `team886/findagent-plugins-local` to `chat.plugins.marketplaces` |
-| Codex | add the marketplace `team886/findagent-plugins-local` |
+| Claude Code | `/plugin marketplace add FindAgent/plugins-local` |
+| GitHub Copilot CLI | `copilot plugin marketplace add FindAgent/plugins-local` |
+| VS Code | add `FindAgent/plugins-local` to `chat.plugins.marketplaces` |
+| Codex | add the marketplace `FindAgent/plugins-local` |
 
 Most agents do not need this tier. The main marketplace is
-[team886/findagent-plugins](https://github.com/team886/findagent-plugins).
+[FindAgent/plugins](https://github.com/FindAgent/plugins).
 
 ## License
 
